@@ -14,7 +14,7 @@ This project provides an analysis of real estate sales, visualized using Power B
 You can interact with the full Power BI report here: [Real Estate Sales Analysis Power BI](https://app.powerbi.com/view?r=eyJrIjoiZWY4ZDFiNzItMDNkYS00MjQxLTg1MzYtYmVhNjI1YjBiMGI4IiwidCI6IjdlMjNhMzYyLTM3NzAtNDhlYi04ZGJmLTc0YTcwYjc4Nzc2ZCJ9)
 
 ## Data Visualization
-![Real Estate Sales Analysis]((https://github.com/Sidd3100/Real-Estate-Sales-Performance/blob/b2375bbe17165107e5b07e1894b9e04e3600ff6a/Real%20Estate%20-%201.png)) <!-- Replace with the actual image URL -->
+![Real Estate Sales Analysis](https://github.com/Sidd3100/Real-Estate-Sales-Performance/blob/b2375bbe17165107e5b07e1894b9e04e3600ff6a/Real%20Estate%20-%201.png) <!-- Replace with the actual image URL -->
 
 ## Technologies Used
 - Power BI for data visualization
